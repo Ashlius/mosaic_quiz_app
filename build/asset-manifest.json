@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mosaic_quiz_app/static/css/main.f855e6bc.css",
+    "main.js": "/mosaic_quiz_app/static/js/main.0d584d94.js",
+    "static/js/787.17e7be55.chunk.js": "/mosaic_quiz_app/static/js/787.17e7be55.chunk.js",
+    "static/media/logo.svg": "/mosaic_quiz_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mosaic_quiz_app/index.html",
+    "main.f855e6bc.css.map": "/mosaic_quiz_app/static/css/main.f855e6bc.css.map",
+    "main.0d584d94.js.map": "/mosaic_quiz_app/static/js/main.0d584d94.js.map",
+    "787.17e7be55.chunk.js.map": "/mosaic_quiz_app/static/js/787.17e7be55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0d584d94.js"
+  ]
+}
